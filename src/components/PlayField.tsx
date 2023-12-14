@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 const Square = styled.button`
-  border: 1px solid 000;
+  border: 1px solid #000;
   background: #fff;
   color: #000;
   width: 75px;
